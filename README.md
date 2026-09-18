@@ -80,8 +80,8 @@ Aplicativo Flutter para gestão de obras, orçamento, despesas, equipes e acompa
 
 > Código-fonte privado.
 
-### [Untold](https://github.com/sigismundo03/untold)
-Projeto Flutter público com integração a Firebase e organização em camadas.
+### [Flutter Streaming App](https://github.com/sigismundo03/untold)
+Projeto Flutter público com autenticação, perfis de usuário, reprodução de vídeo, integração com Firebase e organização em camadas.
 
 **Stack:** Flutter, Dart, Firebase Auth, Cloud Firestore, Dio, Retrofit, GetIt, MobX e Mocktail.
 
@@ -98,7 +98,11 @@ Desenvolvimento e evolução de aplicações mobile com Flutter e Dart, integra�
 ### Compass UOL
 **Desenvolvimento Mobile | Flutter**
 
-Atuação com Flutter no desenvolvimento e evolução de aplicações mobile em equipe multidisciplinar, incluindo projeto para a Ancar Ivanhoe Shopping Centers.
+Atuação com Flutter no desenvolvimento e evolução de aplicações mobile em equipe multidisciplinar.
+
+**Projeto Ancar Ivanhoe** — desenvolvimento e evolução do ecossistema de aplicativos Flutter dos shopping centers da companhia.
+
+**Projeto TFSports** — atuação nos aplicativos **TFSports** e **TFSports Trainer**.
 
 ---
 
