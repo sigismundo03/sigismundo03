@@ -80,7 +80,7 @@ Aplicativo Flutter para gestão de obras, orçamento, despesas, equipes e acompa
 
 > Código-fonte privado.
 
-### [Flutter Streaming App](https://github.com/sigismundo03/untold)
+### [Flutter Streaming App](https://github.com/sigismundo03/flutter-streaming-app)
 Projeto Flutter público com autenticação, perfis de usuário, reprodução de vídeo, integração com Firebase e organização em camadas.
 
 **Stack:** Flutter, Dart, Firebase Auth, Cloud Firestore, Dio, Retrofit, GetIt, MobX e Mocktail.
